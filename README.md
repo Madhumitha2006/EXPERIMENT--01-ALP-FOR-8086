@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name :MADHU MITHA V
+
 Roll no: 2305002013
+
 Date of experiment :
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
@@ -14,7 +16,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 5.	Run (once there is no syntax error) 
 6.	Click OK to see/view the output of your program on the Emulator screen. 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table.
-8.	Click on emulate to start emulation 
+8.	Click on emulate to start emulation
+
 9.If no errors are found click on run the program and check the status of various flags in the flags tab as shown below.
 ## Programs for arithmetic  operations
 
